@@ -1,9 +1,9 @@
-☕ Coffee Shop Management System
+# ☕ Coffee Shop Management System
 
 A full-stack web application for managing a coffee shop.  
 The project allows users to browse products, place orders, and manage coffee shop operations through a modern and responsive interface.
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 This application was developed as a practical full-stack project combining a modern frontend with a robust backend architecture.
 
